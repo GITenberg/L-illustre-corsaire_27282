@@ -1,0 +1,30 @@
+_repo: L-illustre-corsaire_27282
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mairet, Jean de
+    aliases:
+    - De Mairet, Jean
+    - Mayret, Jean de
+    birthdate: 1604
+    deathdate: 1686
+    gutenberg_agent_id: '32593'
+    url: http://www.gutenberg.org/2009/agents/32593
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27282'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 17th century'
+- !lcc 'PQ'
+title: 'L''illustre corsaire: tragicomedie'
+url: http://www.gutenberg.org/ebooks/27282
